@@ -31,13 +31,13 @@ video {
 .scrubber-empty {
     background: white; 
     height: 400px; 
-    width: 30px;
+    width: 40px;
     border-radius: 20px;
     box-shadow: 0 0 0 3px rgba(0, 0, 0, .1);
     overflow: hidden;
 }
 
-.srubber-filled {
+.scrubber-filled {
     background: linear-gradient(to bottom, #3498db, #9b59b6);
     height: 25%;
     width: 100%;
